@@ -1,10 +1,10 @@
-# Kobby Sekoe | AI & Machine Learning Engineer
+# Kwame Bekoe | AI & Machine Learning Engineer
 
 ### 💡 Focused on End-to-End MLOps and Advanced AI
 
 ---
 
-👋 Hi, I'm Kobby! I specialize in building, deploying, and managing full-stack Machine Learning solutions from initial concept through production.
+👋 Hi, I'm Kwame! I specialize in building, deploying, and managing full-stack Machine Learning solutions from initial concept through production.
 
 ### 🔭 My Current Focus & Expertise
 
